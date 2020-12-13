@@ -1,0 +1,33 @@
+.mainHeading{
+  text-align: center;
+  font-family:fantasy;
+  font-size: 80px;
+}
+h1{
+  font-family: serif;
+}
+a:link,a:visited{
+  color: MediumSeaGreen;
+  text-decoration: none;
+}
+a:hover,a:active{
+  text-decoration: none;
+  color:red;
+}
+p{
+  text-align: justify;
+}
+img{
+  margin:15px;
+}
+body{
+  padding: 15px;
+}
+address{
+  background-color: yellow;
+  padding: 15px 70px 15px 15px;
+  border: 2px solid yellow;
+  display:inline-block;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
